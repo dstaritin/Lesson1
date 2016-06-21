@@ -10,11 +10,7 @@ namespace Branch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Smthg");
-            int i = 100;
-            i += 50;
-            Console.WriteLine(i);
-            Console.ReadKey();
+            Console.WriteLine("Modifying");
         }
     }
 }
