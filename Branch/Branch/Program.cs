@@ -11,6 +11,7 @@ namespace Branch
         static void Main(string[] args)
         {
             Console.WriteLine("Smthg");
+            Console.ReadKey();
         }
     }
 }
