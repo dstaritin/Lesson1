@@ -15,6 +15,8 @@ namespace Branch
             {
                 Console.WriteLine("UNBELIEVABLE");
             }
+            int i = 10 % 4;
+            Console.WriteLine(i);
         }
     }
 }
