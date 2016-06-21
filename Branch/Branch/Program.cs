@@ -11,7 +11,10 @@ namespace Branch
         static void Main(string[] args)
         {
             Console.WriteLine("Smthg");
-            Console.WriteLine("Else");
+
+            int i = 100;
+            i += 50;
+            Console.WriteLine(i);
         }
     }
 }
