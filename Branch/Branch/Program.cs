@@ -11,6 +11,8 @@ namespace Branch
         static void Main(string[] args)
         {
             Console.WriteLine("Modifying");
+            int i = 10 % 4;
+            Console.WriteLine(i);
         }
     }
 }
