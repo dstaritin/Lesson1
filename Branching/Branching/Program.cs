@@ -12,6 +12,9 @@ namespace Branching
         {
             int i = 100;
             Console.WriteLine("100 / 3 = {0}", i /= 3);
+
+            double j = 100.0;
+            Console.WriteLine("100.0 / 3.0 = {0:#.##}", j /= 3.0);
         }
     }
 }
